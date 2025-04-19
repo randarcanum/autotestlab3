@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameLibrary>
+  <genre category="Sandbox" genreId="4">
+    <game gameId="007">
+      <title>Grand Theft Auto V</title>
+      <developer>Rockstar North</developer>
+      <releaseDate>2013-09-17</releaseDate>
+      <subgenre>Open world</subgenre>
+      <features>
+        <feature>Open world</feature>
+        <feature>Action-adventure</feature>
+        <feature>Multiplayer</feature>
+      </features>
+      <price>59</price>
+    </game>
+  </genre>
+</gameLibrary>

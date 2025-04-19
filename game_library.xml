@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameLibrary>
+  <genre category="Action" genreId="1">
+    <game gameId="001">
+      <title>Cyberpunk 2077</title>
+      <developer>CD Projekt Red</developer>
+      <releaseDate>2020-12-10</releaseDate>
+      <subgenre>RPG</subgenre>
+      <features>
+        <feature>First-person shooter</feature>
+        <feature>Open world</feature>
+        <feature>Story-rich</feature>
+      </features>
+      <price>59</price>
+    </game>
+    <game gameId="002">
+      <title>Doom Eternal</title>
+      <developer>id Software</developer>
+      <releaseDate>2020</releaseDate>
+      <subgenre>FPS</subgenre>
+      <features>
+        <feature>Fast-paced</feature>
+        <feature>Gore</feature>
+      </features>
+      <price>39</price>
+    </game>
+  </genre>
+  <genre category="Strategy" genreId="2">
+    <game gameId="003">
+      <title>Civilization VI</title>
+      <developer>Firaxis Games</developer>
+      <releaseDate>2016</releaseDate>
+      <subgenre>Turn-based</subgenre>
+      <features>
+        <feature>4X</feature>
+        <feature>Historical</feature>
+        <feature>Multiplayer</feature>
+      </features>
+      <price>59</price>
+    </game>
+    <game gameId="004">
+      <title>Starcraft II</title>
+      <developer>Blizzard Entertainment</developer>
+      <releaseDate>2010</releaseDate>
+      <subgenre>RTS</subgenre>
+      <features>
+        <feature>Competitive</feature>
+        <feature>Sci-fi</feature>
+      </features>
+      <price>20</price>
+    </game>
+  </genre>
+  <genre category="Adventure" genreId="3">
+    <game gameId="005">
+      <title>The Legend of Zelda: Breath of the Wild</title>
+      <developer>Nintendo EPD</developer>
+      <releaseDate>2017</releaseDate>
+      <subgenre>Action-adventure</subgenre>
+      <features>
+        <feature>Open world</feature>
+        <feature>Puzzle-solving</feature>
+        <feature>Exploration</feature>
+      </features>
+      <price>59</price>
+    </game>
+    <game gameId="006">
+      <title>Red Dead Redemption 2</title>
+      <developer>Rockstar Studios</developer>
+      <releaseDate>2018</releaseDate>
+      <subgenre>Western</subgenre>
+      <features>
+        <feature>Open world</feature>
+        <feature>Story-driven</feature>
+        <feature>Realistic</feature>
+      </features>
+      <price>39</price>
+    </game>
+  </genre>
+</gameLibrary>
